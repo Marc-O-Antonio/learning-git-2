@@ -1,0 +1,3 @@
+Aby wyświetlić błędy we wszystkich plikach typu "html" zamiast nazwy pliku zastosowałbym symbol "*"
+komenda wyglądałaby w sposób następujący:
+node_modules/.bin/html-validate *.html
